@@ -26,16 +26,16 @@ Start the development server on `http://localhost:3000`:
 
 ```bash
 # npm
-npm run dev
+npm run start
 
 # pnpm
-pnpm dev
+pnpm start
 
 # yarn
-yarn dev
+yarn start
 
 # bun
-bun run dev
+bun run start
 ```
 
 ## Production
